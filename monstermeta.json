@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Monster",
+      "value" : "Dybbuk"
+    }, {
+      "trait_type" : "Space",
+      "value" : "Fire"
+    } ],
+    "description" : "not cryptokitties.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmY3AiXaCt9JFJ33GTR5U7YjXKrC5xbtjJDjEdUbN8QMVG",
+    "name" : "Kabbey"
+}
