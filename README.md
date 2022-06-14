@@ -1,4 +1,4 @@
-# ERC-721 Smart Contract
+# Deploying ERC-721 Smart Contract on Optimism Kovan Testnet
 
 In this tutorial, we will walk through creating and deploying an ERC-721 smart contract and minting the token on Optimism Kovan-Testnet using Solidity, Hardhat and Pinata. 
 
