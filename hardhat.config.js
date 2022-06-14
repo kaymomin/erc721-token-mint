@@ -10,8 +10,10 @@ module.exports = {
    networks: {
       hardhat: {},
       kovan: {
+         //use ankr's public RPC if you want to launch the contract on Mainnet -> rpc.ankr.com/optimism
          url: "https://kovan.optimism.io/",
          accounts: [`0x${process.env.PRIVATE_KEY}`]
       }
    },
 }
+
